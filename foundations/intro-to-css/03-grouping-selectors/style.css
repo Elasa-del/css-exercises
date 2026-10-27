@@ -5,7 +5,7 @@
 .second-element{
     background-color:yellow;
 }
-.both-elements{
+.first-element, .second-element{
    font-size: 28px;
    font-family: Helvetica, Time new Roman, sans-serif;
 }
