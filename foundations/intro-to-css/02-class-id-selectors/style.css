@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.all-odd{
+    background-color:#FFA6A6;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#second-element{
+    color: blue;
+    font-size: 36px;
+}
+.third-element{
+    font-size: 24px;
+}
+#fourth-element{
+    background-color: #80FF80;
+    font-size: 24px;
+    font-weight: bold;
+}
